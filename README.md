@@ -19,7 +19,7 @@ A Python script designed to scrape web pages, extract data (title, content, link
 2.  **Install Dependencies:**
 
     ```bash
-    pip install requests beautifulsoup4 psycopg2 rich
+    pip install requests beautifulsoup4 psycopg rich
     ```
 
 3.  **Configure Database Credentials:**
@@ -44,7 +44,7 @@ A Python script designed to scrape web pages, extract data (title, content, link
 1.  **Run the Script:**
 
     ```bash
-    python your_script_name.py
+    python main.py
     ```
 
 2.  **Enter Initial URLs:**  When prompted, enter the starting URLs for scraping, separated by spaces.  These URLs will be the seeds for exploring the web.
